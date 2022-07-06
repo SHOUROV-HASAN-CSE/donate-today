@@ -35,19 +35,7 @@ p{
 .section-2{
   margin: 150px 100px;
 }
-.d1{
-  display: flex;
-  text-align: center;
-  margin-left: 100px;
-  margin-right: 100px;
-}
-.d2{
-  text-align:center;
-  padding: 50px;
-  background-color: rgba(127, 255, 212, 0.493);
-  margin: 10px;
-  border-radius: 5px;
-}
+
 .b3 ul li{
   display:inline-block;
   background-color: rgba(233, 223, 230, 0.473);
@@ -91,6 +79,57 @@ p{
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+.section-3-bottom-div{
+  display: flex;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.section-3-bottom-div-1{
+  text-align:center;
+  padding: 50px;
+  background-color: rgba(127, 255, 212, 0.226);
+  margin: 10px;
+  border-radius: 5px;
+}
+.section-3-bottom-div-1 img{
+  height: 70px;
+  width: 70px;
+}
+.section-3-bottom-div-2{
+  text-align:center;
+  padding: 50px;
+  background-color: rgba(255, 225, 127, 0.226);
+  margin: 10px;
+  border-radius: 5px;
+}
+.section-3-bottom-div-2 img{
+  height: 80px;
+  width: 80px;
+}
+.section-3-bottom-div-3{
+  text-align:center;
+  padding: 50px;
+  background-color: rgba(255, 127, 234, 0.226);
+  margin: 10px;
+  border-radius: 5px;
+}
+.section-3-bottom-div-3 img{
+  height: 80px;
+  width: 80px;
+}
 
 .section-4{
   display:flex;
