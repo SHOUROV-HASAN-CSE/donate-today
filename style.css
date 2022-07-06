@@ -71,10 +71,58 @@ p{
   border: 0;
   font-size: 18px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .section-4{
   display:flex;
-  margin: 150px 100px;
+  margin: 125px 100px;
 }
+.section-4-left{
+padding: 0 100px;
+text-align: left;
+font-size: 25px;
+}
+.section-4-left p{
+  text-align: left;
+  font-size: 17px;
+  margin-bottom: 50px;
+}
+.section-4-button{
+  color: #fff;
+  background-color:coral;
+  padding: 10px 15px;
+  border-radius: 6px;
+  text-align: left;
+  text-decoration: none;
+
+}
+
+.section-4-right img{
+height: 450px;
+width: 500px;
+border-radius: 5px;
+}
+
+
 .inp-2{
   text-align: center;
   margin: 50px 300px; 
