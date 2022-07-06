@@ -62,7 +62,10 @@ p{
   border: 0;
   font-size: 18px;
 }
-
+.section-2-list{
+  border: 3px solid coral;
+  color: coral;
+}
 
 
 
