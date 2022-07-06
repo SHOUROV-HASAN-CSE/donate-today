@@ -2,8 +2,9 @@ body{
   margin:0;
   font-family: 'Poppins', sans-serif;
 }
+
 #heading-section{
-  background-image: url(images/donation3.jpg);
+  background-image: url(images/donation13.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 700px;
@@ -11,21 +12,25 @@ body{
   color: #fff;
   margin-top: -50px;
 }
+
 .banner{
-  background-color: rgba(0, 0, 0, 0.521);
+  background-color: rgba(0, 0, 0, 0.418);
   height: 100%;
 }
+
 .banner-text{
   padding-top: 200px;
 }
 
 h1{
-text-align: center;
-font-size: 50px;
+  text-align: center;
+  font-size: 50px;
 }
+
 p{
   text-align: center;
 }
+
 .button-1{
   color: #fff;
   background-color:rgb(233, 92, 40);
@@ -35,11 +40,12 @@ p{
   text-decoration: none;
   margin-left: 42%;
 }
+
 .section-2{
   margin: 150px 100px;
 }
 
-.b3 ul li{
+.section-2-div-2 ul li{
   display:inline-block;
   background-color: rgba(233, 223, 230, 0.473);
   border-radius: 5px;
@@ -48,54 +54,28 @@ p{
   padding: 25px 20px;
   text-align: center;
 }
-.b3 ul{
+
+.section-2-div-2 ul{
   text-align: center;
 }
+
 .inp1{
   text-align: center;
   text-decoration: none;
   border-bottom: 1px solid black;
   margin: 50px 350px; 
 }
+
 .inp1 input{
   outline: 0;
   border: 0;
   font-size: 18px;
 }
+
 .section-2-list{
   border: 3px solid coral;
   color: coral;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .section-3-bottom-div{
   display: flex;
@@ -103,6 +83,7 @@ p{
   margin-left: 100px;
   margin-right: 100px;
 }
+
 .section-3-bottom-div-1{
   text-align:center;
   padding: 50px;
@@ -111,10 +92,12 @@ p{
   margin: 10px;
   border-radius: 5px;
 }
+
 .section-3-bottom-div-1 img{
   height: 70px;
   width: 70px;
 }
+
 .section-3-bottom-div-2{
   text-align:center;
   padding: 50px;
@@ -123,10 +106,12 @@ p{
   margin: 10px;
   border-radius: 5px;
 }
+
 .section-3-bottom-div-2 img{
   height: 80px;
   width: 80px;
 }
+
 .section-3-bottom-div-3{
   text-align:center;
   padding: 50px;
@@ -135,6 +120,7 @@ p{
   margin: 10px;
   border-radius: 5px;
 }
+
 .section-3-bottom-div-3 img{
   height: 80px;
   width: 80px;
@@ -144,16 +130,19 @@ p{
   display:flex;
   margin: 125px 100px;
 }
+
 .section-4-left{
-padding: 0 100px;
-text-align: left;
-font-size: 25px;
+  padding: 0 100px;
+  text-align: left;
+  font-size: 25px;
 }
+
 .section-4-left p{
   text-align: left;
   font-size: 17px;
   margin-bottom: 50px;
 }
+
 .section-4-button{
   color: #fff;
   background-color:coral;
@@ -161,15 +150,13 @@ font-size: 25px;
   border-radius: 6px;
   text-align: left;
   text-decoration: none;
-
 }
 
 .section-4-right img{
-height: 450px;
-width: 500px;
-border-radius: 5px;
+  height: 450px;
+  width: 500px;
+  border-radius: 5px;
 }
-
 
 .section-5-div-2{
   text-align: center;
@@ -177,8 +164,8 @@ border-radius: 5px;
   background-color: rgba(255, 127, 80, 0.233);
   padding: 75px 50px;
   border-radius: 5px;
-
 }
+
 .section-5-div-2 input{
   outline: 0;
   border: 0;
@@ -187,6 +174,7 @@ border-radius: 5px;
   border-radius: 5px 0 0 5px;
   background-color: lightgray;
 }
+
 .section-5-div-2 a{
   text-decoration: none;
   background-color: coral;
@@ -195,16 +183,19 @@ border-radius: 5px;
   margin-left:-5px;
   border-radius: 0 5px 5px 0;
 }
+
 .main-footer{
   background-color: black;
   height: 150px;
 }
+
 .footer-head{
   text-align: center;
   font-size: 30px;
   color: coral;
   padding-top: 40px;
 }
+
 .footer-text{
   text-align: center;
   color: #fff;
