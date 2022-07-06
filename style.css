@@ -12,8 +12,11 @@ body{
   margin-top: -50px;
 }
 .banner{
-  background-color: rgba(0, 0, 0, 0.466);
+  background-color: rgba(0, 0, 0, 0.521);
   height: 100%;
+}
+.banner-text{
+  padding-top: 200px;
 }
 
 h1{
@@ -25,7 +28,7 @@ p{
 }
 .button-1{
   color: #fff;
-  background-color:coral;
+  background-color:rgb(233, 92, 40);
   padding: 10px 15px;
   border-radius: 6px;
   text-align: center;
