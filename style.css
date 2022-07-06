@@ -123,7 +123,7 @@ border-radius: 5px;
 }
 
 
-.inp-2{
+.section-5-div-2{
   text-align: center;
   margin: 50px 300px; 
   background-color: rgba(255, 127, 80, 0.233);
@@ -131,7 +131,7 @@ border-radius: 5px;
   border-radius: 5px;
 
 }
-.inp-2 input{
+.section-5-div-2 input{
   outline: 0;
   border: 0;
   font-size: 15px;
@@ -139,7 +139,7 @@ border-radius: 5px;
   border-radius: 5px 0 0 5px;
   background-color: lightgray;
 }
-.inp-2 a{
+.section-5-div-2 a{
   text-decoration: none;
   background-color: coral;
   color: #fff;
